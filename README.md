@@ -1,6 +1,15 @@
-This portfolio collects a selection of projects developed during my Master’s Degree in Computer Engineering at Politecnico di Torino. 
-The projects span different areas of machine learning and artificial intelligence, aiming to demonstrate both technical skills and the ability to apply data-driven approaches to real-world problems.
+# **🎓 Politecnico di Torino – Master’s Projects Portfolio**
 
-Depending on the requirements of each course, the projects may include code, reports, and/or experimental results. 
+This repository gathers a curated selection of projects carried out during my Master’s Degree in Computer Engineering at Politecnico di Torino.
 
-Together, these works reflect a progressive learning path and a broad interest in machine learning applications.
+The projects cover diverse topics in machine learning and artificial intelligence, with the goal of showcasing both technical expertise and the ability to apply data-driven methods to practical problems.
+
+Depending on the requirements of each course, the material provided for every project may include:
+
+* **Source code**
+
+* **Reports and documentation**
+
+* **Experimental results and analysis**
+
+Taken together, these works highlight a progressive learning journey and demonstrate a broad and evolving interest in the applications of machine learning and AI.
