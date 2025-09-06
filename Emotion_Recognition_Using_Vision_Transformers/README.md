@@ -1,5 +1,5 @@
 Due to its size, this Jupyter Notebook cannot be displayed on GitHub.  
-Please download it locally or open it in Google Colab:
+Please download it locally or open it in Google Colab:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Matteo-Di-Iorio-s316606/Polito-Projects/blob/main/Emotion_Recognition_Using_Vision_Transformers/Project_Matteo_Di_Iorio_s316606.ipynb)
 
 ## **Abstract**
